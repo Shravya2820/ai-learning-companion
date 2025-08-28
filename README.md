@@ -1,7 +1,7 @@
 # 🎓 AI Learning Companion  
 
 An **AI-powered inclusive learning platform** designed for children with learning disabilities (dyslexia, ADHD, autism, dyscalculia).  
-Built for [Hackathon Name] 2025 under the **Education & Skilling + Accessibility & Inclusion** theme.  
+Built for AINNOVATION_II - 2025 under the **Education & Skilling** theme.  
 
 ---
 
