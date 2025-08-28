@@ -63,89 +63,45 @@ ai-learning-companion/
 │ └── styles/
 │ └── global.css
 
+---
+
+## 🔮 Future Roadmap
+
+Our hackathon prototype focuses on speech-to-text, text-to-speech, and basic lesson modules.  
+We envision growing this into a **comprehensive inclusive learning platform** with the following milestones:
+
+### Phase 1 – Prototype (Hackathon)
+- ✅ Speech-to-text and text-to-speech integration (Azure Cognitive Services)  
+- ✅ Basic reading/quiz modules with progress tracking (Firebase)  
+- ✅ Simple React frontend for accessibility  
+
+### Phase 2 – Enhanced Learning Features
+- 🎮 Gamification: badges, rewards, and interactive exercises  
+- 🌍 Multilingual support for Indian regional languages  
+- 📊 Teacher/Parent dashboards with personalized insights  
+
+### Phase 3 – AI Personalization
+- 🤖 Adaptive AI tutor that adjusts difficulty and lesson flow dynamically  
+- 😊 Emotion detection (using voice/facial sentiment) to sense frustration/boredom  
+- 🧩 Multi-disability modes (custom settings for dyslexia, ADHD, autism, dyscalculia)  
+
+### Phase 4 – Scaling & Impact
+- ☁️ Offline support for rural/low-internet areas  
+- 🏫 Partnerships with schools and NGOs for deployment  
+- 📱 Mobile app (React Native) for wider accessibility  
+- 🌐 Community-driven content expansion with teacher contributions
+---
+
+### 👨‍👩‍👧 Team
+- Shravya N Bhat – [Role]
+- Trishal Hegde – [Role]
+- Vaishnavi Ghogre – [Role]
+- Vishruth HR – [Role]
+---
+### 📜 License
+This project is open-sourced under the MIT License.
 
 ---
 
-## ▶️ Getting Started  
-
-1. **Clone the repo**  
-   ```bash
-   git clone https://github.com/<your-team>/ai-learning-companion.git
-   cd ai-learning-companion
-
-
-Install dependencies
-
-npm install
-
-
-Add Firebase config → src/services/firebase.ts
-
-Add Azure keys → src/services/azureSpeech.ts
-
-Run locally
-
-npm start
-
-🧩 Demo (Prototype Scope for Hackathon)
-
-Speech-to-text input from microphone
-
-Text-to-speech lesson playback
-
-Basic quiz module with progress tracking
-
-Firebase backend for storing child progress
-
-(Screenshots or demo link can be added here)
-
-🔮 Future Roadmap
-Phase 1 – Prototype (Hackathon)
-
-✅ Speech-to-text and text-to-speech integration
-
-✅ Basic reading/quiz modules with progress tracking
-
-✅ Simple React frontend for accessibility
-
-Phase 2 – Enhanced Features
-
-🎮 Gamification: badges, rewards, and interactive exercises
-
-🌍 Multilingual support for Indian regional languages
-
-📊 Teacher/Parent dashboards with personalized insights
-
-Phase 3 – AI Personalization
-
-🤖 Adaptive AI tutor that adjusts difficulty dynamically
-
-😊 Emotion detection via voice/facial sentiment
-
-🧩 Multi-disability modes with custom learning paths
-
-Phase 4 – Scaling & Impact
-
-☁️ Offline support for low-internet regions
-
-🏫 School + NGO partnerships for real-world deployment
-
-📱 React Native mobile app
-
-🌐 Community-driven content creation
-
-👨‍👩‍👧 Team
-
-Shravya N Bhat – [Role]
-
-Trishal Hegde – [Role]
-
-Vaishnavi Ghogre – [Role]
-
-Vishruth HR – [Role]
-
-📜 License
-
-This project is open-sourced under the MIT License.
-
-🚀 Our vision: To become the first truly inclusive, multilingual, multi-disability AI tutor that makes quality education accessible for every child.
+### 🚀 Our vision: To become the first truly inclusive, multilingual, multi-disability AI tutor that makes quality education accessible for every child.
+---
