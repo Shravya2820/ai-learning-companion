@@ -93,10 +93,10 @@ We envision growing this into a **comprehensive inclusive learning platform** wi
 ---
 
 ### 👨‍👩‍👧 Team
-- Shravya N Bhat – [Role]
-- Trishal Hegde – [Role]
-- Vaishnavi Ghogre – [Role]
-- Vishruth HR – [Role]
+- Shravya N Bhat 
+- Trishal Hegde 
+- Vaishnavi Ghogre 
+- Vishruth HR 
 ---
 ### 📜 License
 This project is open-sourced under the MIT License.
